@@ -1,0 +1,10 @@
+# testMake
+
+## topMemo
+echo "# testMake" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:monty625/testMake.git
+git push -u origin main
