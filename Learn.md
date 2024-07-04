@@ -7,6 +7,9 @@ https://learn.microsoft.com/ja-jp/dotnet/architecture/microservices/container-do
 https://learn.microsoft.com/ja-jp/virtualization/windowscontainers/manage-docker/configure-docker-daemon
 https://learn.microsoft.com/ja-jp/virtualization/hyper-v-on-windows/about/#operating-systems-you-can-run-in-a-virtual-machine
 
-#microsoft
+# microsoft
 https://learn.microsoft.com/en-us/
 https://stackoverflow.com/questions/40105458/how-to-use-the-curl-command-in-powershell
+
+# atcoder
+https://www.youtube.com/watch?v=GlIbjsEttaY
