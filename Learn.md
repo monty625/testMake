@@ -11,6 +11,8 @@ Dockerコンテナの高速化 mac
 # microsoft
 https://learn.microsoft.com/en-us/
 https://stackoverflow.com/questions/40105458/how-to-use-the-curl-command-in-powershell
+vscode external thunder client
+https://marketplace.visualstudio.com/vscode
 
 # atcoder
 https://www.youtube.com/watch?v=GlIbjsEttaY
