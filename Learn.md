@@ -21,6 +21,8 @@ https://www.youtube.com/watch?v=GlIbjsEttaY
 laravel collect・pluckについて確認必要,cakephp helper
 
 # js
+mdn
+https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Operators/this
 jquery
 https://jquery.com/
 https://api.jquery.com/val/#val
