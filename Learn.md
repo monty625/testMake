@@ -17,5 +17,10 @@ https://marketplace.visualstudio.com/vscode
 # atcoder
 https://www.youtube.com/watch?v=GlIbjsEttaY
 
-#php
+# php
 laravel collect・pluckについて確認必要,cakephp helper
+
+# js
+jquery
+https://jquery.com/
+https://api.jquery.com/val/#val
