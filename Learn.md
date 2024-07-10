@@ -28,3 +28,7 @@ https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Operators/this
 jquery
 https://jquery.com/
 https://api.jquery.com/val/#val
+
+# github
+https://github.com/yytypescript/book
+https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess
