@@ -20,7 +20,8 @@ https://marketplace.visualstudio.com/vscode <br>
 https://www.youtube.com/watch?v=GlIbjsEttaY
 
 # php
-laravel collect・pluckについて確認必要,cakephp helper
+laravel collect・pluck,cakephp helper
+async(fn()=>$this->...
 
 # js
 mdn
@@ -28,6 +29,7 @@ https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Operators/this
 jquery
 https://jquery.com/
 https://api.jquery.com/val/#val
+emulate https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/RegExp/test
 
 # github
 https://github.com/yytypescript/book
