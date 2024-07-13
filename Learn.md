@@ -35,5 +35,10 @@ emulate https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Ob
 https://github.com/yytypescript/book
 https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess
 
+## markdown manual
+[GitHub markdown](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) <br>
+[git](https://git-scm.com/book/ja/v2/%E4%BD%BF%E3%81%84%E5%A7%8B%E3%82%81%E3%82%8B-Git%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB) <br>
+
 # source test
 https://paiza.io/projects/iRzTepMYMbhT3vktRHw9YQ
+
