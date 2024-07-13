@@ -42,3 +42,7 @@ https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess
 # source test
 https://paiza.io/projects/iRzTepMYMbhT3vktRHw9YQ
 
+# chatgpt
+https://chatgpt.com/
+https://openai.com/index/introducing-chatgpt-and-whisper-apis/
+
