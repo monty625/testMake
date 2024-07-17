@@ -30,6 +30,7 @@ jquery
 https://jquery.com/
 https://api.jquery.com/val/#val
 emulate https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/RegExp/test
+https://ja.vuejs.org/guide/typescript/overview
 
 # github
 https://github.com/yytypescript/book
