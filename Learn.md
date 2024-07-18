@@ -33,8 +33,9 @@ emulate https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Ob
 https://ja.vuejs.org/guide/typescript/overview
 
 # github
-https://github.com/yytypescript/book
-https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess
+https://github.com/yytypescript/book<br>
+https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess<br>
+https://docs.github.com/en/get-started/using-git/about-git-rebase#rebasing-commits-against-a-point-in-time<br>
 
 ## markdown manual
 [GitHub markdown](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) <br>
