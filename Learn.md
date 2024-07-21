@@ -49,6 +49,8 @@ https://paiza.io/projects/iRzTepMYMbhT3vktRHw9YQ
 https://chatgpt.com/
 https://openai.com/index/introducing-chatgpt-and-whisper-apis/
 
-# TODO CHECK
+# TODO CHECK Learn
 https://developer.mozilla.org/ja/docs/Learn/Tools_and_testing/GitHub
-
+https://developer.mozilla.org/ja/docs/Web/Tutorials
+https://github.com/yytypescript/book
+https://github.com/vuejs-jp/handson-vue3
